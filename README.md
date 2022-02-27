@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Olá, sou Alex Nascimento Rodrigues</h1>
+<h1 align="center">Olá, sou Alex N. Rodrigues</h1>
 <h3 align="center">Desenvolvedor backend jr.</h3>
 
 - 🌱 Atualmente estou estudando **O framework laravel e vue**
